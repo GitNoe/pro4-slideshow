@@ -17,5 +17,3 @@
 
 - En la página principal: repasar las animaciones y keyframes de aparición y movimiento del título y el botón, ya que el código está copiado.
 - Medias queries para responsive.
-  
-### Página original: https://ik-portfolio.netlify.app/assets/works-projects/slideshow/ 
